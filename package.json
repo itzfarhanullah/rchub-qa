@@ -1,0 +1,54 @@
+{
+  "name": "rchub-qa",
+  "version": "0.1.0",
+  "description": "Curated, token-efficient QA documentation for AI coding agents",
+  "type": "module",
+  "bin": {
+    "rchub-qa": "./bin/rchub-qa"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "content/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "qa",
+    "testing",
+    "ai-agents",
+    "playwright",
+    "selenium",
+    "appium",
+    "cypress",
+    "pytest",
+    "jest",
+    "vitest",
+    "testing-library",
+    "supertest",
+    "k6",
+    "locust",
+    "axe-core",
+    "backstopjs",
+    "pact",
+    "robot-framework",
+    "deepeval",
+    "promptfoo",
+    "llm-testing",
+    "api-testing",
+    "performance-testing",
+    "accessibility-testing",
+    "visual-regression",
+    "contract-testing",
+    "context-hub"
+  ],
+  "dependencies": {
+    "commander": "^13.0.0"
+  },
+  "author": "ratl.ai",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
